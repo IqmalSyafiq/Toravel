@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>540131471564-3v3c37qctc0915cl7jga9cdcguejt00i.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.540131471564-3v3c37qctc0915cl7jga9cdcguejt00i</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD5b3fE9oY6f4tVaoGO0jvz-Gpk8lOylX0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>540131471564</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.gp.toravel</string>
+	<key>PROJECT_ID</key>
+	<string>toravel-2ee98</string>
+	<key>STORAGE_BUCKET</key>
+	<string>toravel-2ee98.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:540131471564:ios:f82ea053aa60b4b8159269</string>
+</dict>
+</plist>

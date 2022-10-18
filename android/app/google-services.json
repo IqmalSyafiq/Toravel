@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "540131471564",
+    "project_id": "toravel-2ee98",
+    "storage_bucket": "toravel-2ee98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540131471564:android:8626422fa36017e2159269",
+        "android_client_info": {
+          "package_name": "com.gp.toravel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540131471564-2b3f6uq32jc23ibbblka6kl753ee20uv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj7JjRMvCVeqESiXXJyn5ALroDewIwHqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540131471564-2b3f6uq32jc23ibbblka6kl753ee20uv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "540131471564-3v3c37qctc0915cl7jga9cdcguejt00i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gp.toravel"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
